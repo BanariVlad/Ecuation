@@ -1,0 +1,9 @@
+C:\Users\ASUS\RiderProjects\EcuatieGradul2\EcuatieGradul2\bin\Debug\EcuatieGradul2.exe.config
+C:\Users\ASUS\RiderProjects\EcuatieGradul2\EcuatieGradul2\bin\Debug\EcuatieGradul2.exe
+C:\Users\ASUS\RiderProjects\EcuatieGradul2\EcuatieGradul2\bin\Debug\EcuatieGradul2.pdb
+C:\Users\ASUS\RiderProjects\EcuatieGradul2\EcuatieGradul2\obj\Debug\EcuatieGradul2.csprojAssemblyReference.cache
+C:\Users\ASUS\RiderProjects\EcuatieGradul2\EcuatieGradul2\obj\Debug\EcuatieGradul2.Properties.Resources.resources
+C:\Users\ASUS\RiderProjects\EcuatieGradul2\EcuatieGradul2\obj\Debug\EcuatieGradul2.csproj.GenerateResource.cache
+C:\Users\ASUS\RiderProjects\EcuatieGradul2\EcuatieGradul2\obj\Debug\EcuatieGradul2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\RiderProjects\EcuatieGradul2\EcuatieGradul2\obj\Debug\EcuatieGradul2.exe
+C:\Users\ASUS\RiderProjects\EcuatieGradul2\EcuatieGradul2\obj\Debug\EcuatieGradul2.pdb
