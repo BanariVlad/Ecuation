@@ -51,7 +51,7 @@ namespace EcuatieGradul2
             var ec = new Ecuation(A, B, C);
             var label = new Label{Text = @"A | B | C |  X1  |  X2  |  S", Size = new Size(150, 20), Location = new Point(20, 80)};
             form.Controls.Add(label);
-            ec.CalculateResult();
+            ec.CalculateResult(form);
             Results.ShowResults(form);
         }
     }

@@ -7,3 +7,4 @@ C:\Users\ASUS\RiderProjects\EcuatieGradul2\EcuatieGradul2\obj\Debug\EcuatieGradu
 C:\Users\ASUS\RiderProjects\EcuatieGradul2\EcuatieGradul2\obj\Debug\EcuatieGradul2.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\RiderProjects\EcuatieGradul2\EcuatieGradul2\obj\Debug\EcuatieGradul2.exe
 C:\Users\ASUS\RiderProjects\EcuatieGradul2\EcuatieGradul2\obj\Debug\EcuatieGradul2.pdb
+C:\Users\ASUS\RiderProjects\EcuatieGradul2\EcuatieGradul2\obj\Debug\EcuatieGradul2.Form1.resources
